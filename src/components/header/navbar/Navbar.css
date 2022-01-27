@@ -1,0 +1,10 @@
+.nav-bar {
+    display: flex;
+    background-color: #ffee58;
+    border-bottom: solid blue;
+    /* border-top: solid blue; */
+}
+
+.nav-bar__logo {
+    padding: 8px 16px;
+}
