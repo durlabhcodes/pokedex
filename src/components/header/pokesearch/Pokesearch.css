@@ -1,0 +1,19 @@
+.pokesearch {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.pokesearch__input input{
+    width: 480px;
+    height: 48px;
+    border-radius: 10px;
+}
+
+.pokesearch__btn button {
+    width: 96px;
+    height: 48px;
+    border-radius: 10px;
+}
