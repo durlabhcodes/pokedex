@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import { Maingrid } from './components/content';
 import { Navbar, Pokesearch } from './components/header';
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
       <header>
         <Navbar></Navbar>
         <Pokesearch></Pokesearch>
+        <Maingrid></Maingrid>
       </header>
       
     </div>

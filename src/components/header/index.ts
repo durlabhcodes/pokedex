@@ -1,5 +1,5 @@
-import { Navbar } from "./navbar";
-import { Pokesearch } from "./pokesearch";
+import { Navbar } from "./Navbar";
+import { Pokesearch } from "./Pokesearch";
 
 export {
     Navbar,
