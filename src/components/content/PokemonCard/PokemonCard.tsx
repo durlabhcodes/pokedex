@@ -1,8 +1,6 @@
 import React from "react";
-
-interface PokemonCardProps {
-    name: string;
-}
+import "./PokemonCard.css";
+import PokemonCardProps from "./PokemonCard.props";
 
 export default function PokemonCard(props: PokemonCardProps) {
     return (

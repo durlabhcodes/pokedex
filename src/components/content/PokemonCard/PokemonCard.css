@@ -1,0 +1,10 @@
+.pokemon-card {
+    display: flex;
+    flex-direction: column;
+    background-color: blueviolet;
+}
+
+.pokemon-card__img img {
+    height: 200px;
+    width: 200px;
+}
