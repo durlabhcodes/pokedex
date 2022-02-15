@@ -1,13 +1,13 @@
 import React from 'react';
 import './App.css';
 import { Maingrid } from './components/content';
-import { Navbar, Pokesearch } from './components/header';
+import { Pokesearch } from './components/header';
 
 function App() {
   return (
     <div className="App">
       <header>
-        <Navbar></Navbar>
+        {/* <Navbar></Navbar> */}
         <Pokesearch></Pokesearch>
         <Maingrid></Maingrid>
       </header>
