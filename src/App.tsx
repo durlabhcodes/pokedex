@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import { Maingrid } from './components/content';
-import { Navbar, Pokesearch } from './components/headers';
+import { Navbar, Pokesearch } from './components/head';
 
 function App() {
   return (
